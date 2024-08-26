@@ -2,8 +2,8 @@
 
 ## Overview
 **Feedback Analysis** is a project that classifies student feedback on a course into five categories: 
-- Positive
 - Very Positive
+-  Positive
 - Neutral
 - Negative
 - Very Negative
