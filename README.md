@@ -1,7 +1,7 @@
-# Education Sentiment Analyzer - DSA2020 Class Project
+# Student Feedback Sentiment Analyzer
 
 ## Introduction
-The **Sentiment Analyzer** is a machine learning-based application designed to classify the sentiment of text data, specifically focusing on educational content. It uses a pre-trained model from the Hugging Face library to predict sentiment categories such as very positive, positive, neutral, negative, and very negative.
+The **Sentiment Analyzer** is a machine learning-based application designed to classify the sentiment of text data, specifically focusing on educational content. It uses a pre-trained model from the Hugging Face library to predict sentiment categories and classifiess them as either: very positive, positive, neutral, negative, and very negative. This would be useful in aiding administrative intervention
 
 ## Features
 - **Sentiment Classification**: Analyzes text and categorizes it into one of five sentiment classes.
